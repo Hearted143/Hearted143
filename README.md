@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm krishna sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hearted143&label=Profile%20views&color=0e75b6&style=flat" alt="hearted143" /> </p>
 
 
 - 📫 How to reach me **krishnasahu000537@gmail.com**
